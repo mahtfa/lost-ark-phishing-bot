@@ -84,22 +84,3 @@ while (True):
                     print("amount of success : ", i)
                     break
 
-
-'''
-(247, 209, 149)
-while (i < 3):
-    px = ImageGrab.grab().load()
-    i += 1 
-    for y in range(474, 483, 1):
-        for x in range(957, 962, 1):
-            color = px[x, y]
-            if str(color) == "(255, 255, 255)":
-                keyboard.press_and_release("e")
-                break
-            print(x , " - " , y , " - " , color)
-        if str(color) == "(255, 255, 255)":
-            break
-    if str(color) == "(255, 255, 255)":
-        break
-
-'''
