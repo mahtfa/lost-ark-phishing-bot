@@ -25,6 +25,6 @@ BTW these are the libraries list:
 
 #
 
-made with nothing 🤔
-
 GL & HF
+
+<sub>made with nothing 🤔</sub>
